@@ -1,5 +1,5 @@
 'use strict'
 
-const hello = () => {
+const helloGitty = () => {
     alert('Hello');
 }
