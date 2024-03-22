@@ -1,0 +1,27 @@
+body {
+    background-color: #636363;
+    font-weight: bold;
+}
+
+.lessons-container {
+    margin: 15%;
+    padding: 155px;
+    background-color: rgb(38, 72, 102);
+    border: 5px solid #232422;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.lesson {
+    margin: 15%;
+    padding: 55px;
+    border: 5px solid #676fdf;
+    border-radius: 35px;
+    color: rgb(221, 248, 248);
+}
+
+li {
+    margin: 15px;
+}
