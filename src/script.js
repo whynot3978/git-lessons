@@ -7,3 +7,9 @@ const sayHi = () => {
 const sayHello = () => {
     alert('Hello!');
 }
+
+const work = () => {
+    alert('Work!');
+}
+
+work();
