@@ -1,5 +1,9 @@
 'use strict'
 
 const sayHi = () => {
-    alert('Hello');
+    alert('Hi!');
+}
+
+const sayHello = () => {
+    alert('Hello!');
 }
