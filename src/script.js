@@ -13,3 +13,7 @@ const work = () => {
 }
 
 work();
+
+const lolImTheRapper = () => {
+    alert('totototototo');
+}
