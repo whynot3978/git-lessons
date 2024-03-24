@@ -17,3 +17,7 @@ work();
 const lolImTheRapper = () => {
     alert('totototototo');
 }
+
+const suka = () => {
+    alert ('vrode poluchilos`!');
+}
